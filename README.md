@@ -2,6 +2,17 @@
 
 Custom icons for Faience Icon Theme made by [Matthieu James](http://tiheum.deviantart.com/).
 
+![](Faience/apps/scalable/arista.svg)
+![](Faience/apps/scalable/chrome-cnkjkdjlofllcpbemipjbcpfnglbgieh-Default.svg)
+![](Faience/apps/scalable/chrome-gibjhmenngmjnbmhfemjkolgkofimfjc-Default.svg)
+![](Faience/apps/scalable/chrome-ojcflmmmcfpacggndoaaflkmcoblhnbh-Default.svg)
+![](Faience/apps/scalable/gelemental.svg)
+![](Faience/apps/scalable/google-musicmanager.svg)
+![](Faience/apps/scalable/nuvolaplayer.svg)
+![](Faience/apps/scalable/sharelatex.svg)
+![](Faience/apps/scalable/sketchup.svg)
+![](Faience/apps/scalable/vbam.svg)
+
 Faba Icon Theme (the icon assets and sources) are licensed under a [General Public License 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) license.
 
 Any bundled software is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3, or (at your option) any later version.
