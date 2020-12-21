@@ -1,5 +1,8 @@
 # Faience Extra Icons
 
+[![Made with Inkscape](https://img.shields.io/badge/made_with-inkscape-yellow.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![GPL 3 License](https://img.shields.io/badge/license-GPL_3-blue)](https://www.gnu.org/licenses/gpl-3.0.en.html)
+
 Custom icons for Faience Icon Theme made by [Matthieu James](http://tiheum.deviantart.com/).
 
 ![](Faience/apps/scalable/arista.svg)
